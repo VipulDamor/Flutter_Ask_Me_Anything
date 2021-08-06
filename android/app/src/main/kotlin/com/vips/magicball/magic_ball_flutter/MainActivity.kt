@@ -1,0 +1,6 @@
+package com.vips.magicball.magic_ball_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
