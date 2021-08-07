@@ -3,10 +3,12 @@
 A new Flutter project.
 
 
+
+## Getting Started
+
 <p align="center">
   <img src="https://github.com/VipulDamor/Flutter_Ask_Me_Anything/blob/master/images/Screenshot_1628253831.png" width="350" title="hover text">
 </p>
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
